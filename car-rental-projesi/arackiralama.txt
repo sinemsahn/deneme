@@ -1,0 +1,4 @@
+2, Volvo, s60, 2018, beyaz, 750, Otomobil
+3, reno, clio, 2020, beyaz, 500, Otomobil
+4, mercedes, vito, 2019, siyah, 650, Minibüs
+5, wolksvagen, tourer, 2021, siyah, 850, Minibüs
